@@ -1,10 +1,11 @@
-# travel-expense-keeper
+# fuel-expense-tracker
 
 Given:
-1) Date
-2) Petrol/CNG/Toll
-3) Quantity
-4) Amount
+1) date(optional) - 12-01-2023
+2) fuelType - Petrol/CNG
+3) fuelVolume - 10.2
+4) amount - 200.99
+5) vehicleType - car/bike
 
 Requirements:-
 
@@ -16,5 +17,7 @@ Date       | Type | Quantity | Amount |  Rate  |
 ------------------------------------------------
 
 2)Give reports for month
+
 3)Give reports for start and end date if given
+
 4)Give report based on type(CNG/Petrol/Toll)
